@@ -1,0 +1,11 @@
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: fit-content;
+}
+
+.question {
+    display: flex;
+    gap: 4px;
+}
