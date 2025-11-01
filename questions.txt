@@ -42,6 +42,7 @@ Submitted work after the deadline?
 Gained points for work submitted after the deadline?
 Gotten 50% ruled?
 Gotten a quarter grade between 89.5% and 90%?
+Gotten a quarter grade of 100%?
 Gotten a quarter C or lower?
 Found a teacher's address?
 Found a teacher’s phone number?
@@ -96,4 +97,4 @@ Used crutches or similar mobility aids in school?
 Hit someone with the intention to hurt them?
 Punched someone with the intention to hurt them?
 Fought someone?
-Got someone severely injured? 
+Got someone severely injured?
